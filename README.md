@@ -31,8 +31,8 @@
 
 ## 📫 Connect with Me
 - GitHub: [Prabhas-IIT](https://github.com/Prabhas-IIT)  
-- LinkedIn: *(add link here)*  
-- Email: *(add email here)*  
+- LinkedIn: *(www.linkedin.com/in/prabhas-chandra-singh-290178382)*  
+- Email: (prabhaschandra.singh.eee25@itbhu.ac.in)  
 
 ---
 
